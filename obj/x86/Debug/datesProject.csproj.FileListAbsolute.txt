@@ -1,0 +1,5 @@
+c:\users\kevin.kelley1\workspace\datesProject\datesProject\datesProject\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kevin.kelley1\workspace\datesProject\datesProject\datesProject\bin\Debug\datesProject.exe
+c:\users\kevin.kelley1\workspace\datesProject\datesProject\datesProject\bin\Debug\datesProject.pdb
+c:\users\kevin.kelley1\workspace\datesProject\datesProject\datesProject\obj\x86\Debug\datesProject.exe
+c:\users\kevin.kelley1\workspace\datesProject\datesProject\datesProject\obj\x86\Debug\datesProject.pdb
