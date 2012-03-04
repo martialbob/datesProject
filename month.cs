@@ -11,12 +11,10 @@ namespace datesProject
         private int monthNumber;
         private int daysInMonth;
 
-        //default constructor, sets name to null, and monthnumber/days to 0
+        //default constructor, sets name to January, month number to 1, and daysInMonth to 31
         public Month()
         {
-            name = null;
-            monthNumber = 0;
-            daysInMonth = 0;
+            setMonth(1);
         }
         //overloaded constructor, sets name/monthnumber/daysinmonth correctly according to which month is given 1-12
         //if some other number is given it sets them the same as the default constructor
@@ -24,7 +22,10 @@ namespace datesProject
         {
             setMonth(month);
         }
-        //same as overloaded constructor except public function able to be called
+        public int getMonthNumber()
+        {
+            return monthNumber;
+        }
         public int getNumDays()
         {
             return daysInMonth;
