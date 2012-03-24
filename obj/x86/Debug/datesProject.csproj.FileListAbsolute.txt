@@ -3,3 +3,7 @@ c:\users\kevin.kelley1\workspace\datesProject\datesProject\datesProject\bin\Debu
 c:\users\kevin.kelley1\workspace\datesProject\datesProject\datesProject\bin\Debug\datesProject.pdb
 c:\users\kevin.kelley1\workspace\datesProject\datesProject\datesProject\obj\x86\Debug\datesProject.exe
 c:\users\kevin.kelley1\workspace\datesProject\datesProject\datesProject\obj\x86\Debug\datesProject.pdb
+C:\Users\kevin.kelley\workspace\datesProject\bin\Debug\ConsoleApplication.exe
+C:\Users\kevin.kelley\workspace\datesProject\bin\Debug\ConsoleApplication.pdb
+C:\Users\kevin.kelley\workspace\datesProject\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\kevin.kelley\workspace\datesProject\obj\x86\Debug\ConsoleApplication.pdb
